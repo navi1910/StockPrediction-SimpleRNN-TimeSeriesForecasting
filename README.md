@@ -47,7 +47,7 @@ The output-input loop feature of RNN model and Autoregression process used help 
     + `['accuracy']` metrics
 
 * Model is then summarized
-![Model Summary](https://github.com/navi1910/StockPrediction-SimpleRNN-TimeSeriesForecasting/blob/master/model_summary.png 'Model Summary')
+<img src="https://github.com/navi1910/StockPrediction-SimpleRNN-TimeSeriesForecasting/blob/master/model_summary.png" width=50% height=50%)
 * The model is fit to Training data.
 * Loss and Accuracy is plotted.
 * X_train is predicted using `predict` then denormalized using `inverse_transform`.
