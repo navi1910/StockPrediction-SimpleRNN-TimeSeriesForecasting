@@ -58,3 +58,9 @@ The output-input loop feature of RNN model and Autoregression process used help 
 
 ## Saving the Model
 The model is saved to a h5 file using `model.save` and python `os` into a directory called `model`. The model can be loaded using `load_model`.
+
+##Contact
+https://www.linkedin.com/in/naveen-a-902a671b3/
+
+##Credits
+https://www.kaggle.com/code/ozkanozturk/stock-price-prediction-by-simple-rnn-and-lstm
