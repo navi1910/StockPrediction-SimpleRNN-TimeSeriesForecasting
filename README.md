@@ -1,6 +1,6 @@
 # Stock Prediction Using SimpleRNN
 RNN stands for Recurrent Neural Networks. RNN is used when we have sequential data.
-`SimpleRNN` is a Function that is provided by `Tensorflow`, `Keras`. It is a fully-connected RNN where the output is to be fed back to input.
+`SimpleRNN` is a Function that is provided by `Tensorflow`, `Keras`. It is a fully-connected RNN where the output is to be fed back as input.
 RNN is used for **Time Series Forecasting**.
 
 ## Project objective
