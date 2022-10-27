@@ -6,6 +6,8 @@ RNN is used for **Time Series Forecasting**.
 ## Project objective
 The objective of the Project is to execute an RNN model inorder to **predict the performance of Tesla Stocks**.
 
+<img src="https://github.com/navi1910/StockPrediction-SimpleRNN-TimeSeriesForecasting/blob/master/tesla_logo.png" width=30% height=30%>
+
 ## Methods
 * Deep Learning Neural Networks
 * Simple RNN by `Tensorflow`
@@ -62,7 +64,7 @@ The output-input loop feature of RNN model and Autoregression process used help 
 The model is saved to a h5 file using `model.save` and python `os` into a directory called `model`. The model can be loaded using `load_model`.
 
 ## Contact
-https://www.linkedin.com/in/naveen-a-902a671b3/
+[Naveen's LinkedIn](https://www.linkedin.com/in/naveen-a-902a671b3/)
 
-## Credits
-https://www.kaggle.com/code/ozkanozturk/stock-price-prediction-by-simple-rnn-and-lstm
+## Acknowledgements
+[Kaggle Notebook](https://www.kaggle.com/code/ozkanozturk/stock-price-prediction-by-simple-rnn-and-lstm)
