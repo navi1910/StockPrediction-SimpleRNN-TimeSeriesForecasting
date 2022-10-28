@@ -32,7 +32,7 @@ The process continues for predicting the 52nd observation and so on. This method
 The output-input loop feature of RNN model and Autoregression process used help in predicting the future values.
 
 ## Procedure
-* The required python modules are imported
+* The required python modules are imported.
 * The data is imported as a **Data Frame using Pandas**.
 * The data is separated in to **Traing set and Validation set**.
 * The data from both Training as well as Validation set is Reshaped.
